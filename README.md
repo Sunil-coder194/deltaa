@@ -1,2 +1,2 @@
 # deltaa
-this is demo lecture class
+this is demo lecture class.
